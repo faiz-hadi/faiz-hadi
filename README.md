@@ -61,4 +61,5 @@ Tech: Vue, Laravel, PHP, Flutter
 
 ## Connect
 
-GitHub: [@faiz-hadi](https://github.com/faiz-hadi)
+- LinkedIn: [Faiz Hadi Maulana](https://www.linkedin.com/in/faiz-hadi-maulana/)
+- GitHub: [@faiz-hadi](https://github.com/faiz-hadi)
