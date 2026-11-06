@@ -1,27 +1,38 @@
-# Hi, I'm Faiz Hadi Maulana 👋
+# Faiz Hadi Maulana
 
-I’m a software developer who builds practical products for education, business operations, and community services.
+Full-stack developer building web, mobile, and AI-powered systems for education and business operations.
 
-- 🤖 Exploring AI applications, local LLMs, and retrieval-augmented generation
-- 📱 Building cross-platform mobile experiences with Flutter
-- 🧩 Developing web platforms with Vue, Laravel, and PHP
-- 🎓 Interested in technology that makes everyday workflows simpler
+**Stack:** `Vue` `Laravel` `PHP` `Flutter` `Dart` `Python` `JavaScript` `C`
 
-## What I build
+## Featured projects
 
-- AI-powered information systems using local language models and RAG
-- Companion mobile applications for education and community platforms
-- Web-based management systems for schools, organizations, and businesses
-- Business tools that streamline administration, payments, and daily operations
+### AITA: Campus Information Kiosk
+A digital concierge for Fakultas Teknik UNRI that answers campus questions using a local language model with retrieval-augmented generation (RAG), so it runs without depending on external AI services.
 
-## Tech stack
+- Repository: [digital-concierge-project-ft-unri](https://github.com/faiz-hadi/digital-concierge-project-ft-unri)
+- Companion app: [AITA-Companion-App](https://github.com/faiz-hadi/AITA-Companion-App)
+- Tech: Python, local LLMs, RAG
 
-`Python` `Flutter` `Dart` `Vue` `JavaScript` `Laravel` `PHP` `C` `HTML` `CSS`
+### Education ERP
+A suite of connected systems for running a school: management, learning, payments, and a parent portal.
 
-## Currently learning
+- Web platform: [assajadah-superapp](https://github.com/faiz-hadi/assajadah-superapp) (Vue)
+- Mobile companion (parent portal): [superapp-mobile](https://github.com/faiz-hadi/superapp-mobile) (Flutter)
+- Learning management: [learning-management-system-assajadah](https://github.com/faiz-hadi/learning-management-system-assajadah)
+- Payments: [school-payment-app](https://github.com/faiz-hadi/school-payment-app)
+- Multi-school SaaS: [saas-school-management-system](https://github.com/faiz-hadi/saas-school-management-system) (Vue)
+- Tech: Vue, Laravel, PHP, Flutter
 
-AI-assisted product development, retrieval-augmented generation, clean architecture, and reliable full-stack delivery.
+## What I work on
+
+- Web platforms and management systems with Vue and Laravel
+- Cross-platform mobile apps with Flutter
+- Applied AI: local LLMs and retrieval-augmented generation
+
+## Currently exploring
+
+AI-assisted product development, retrieval-augmented generation, and clean architecture.
 
 ## Connect
 
-- GitHub: [@faiz-hadi](https://github.com/faiz-hadi)
+GitHub: [@faiz-hadi](https://github.com/faiz-hadi)
