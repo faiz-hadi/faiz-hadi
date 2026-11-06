@@ -6,8 +6,6 @@ Full-stack developer. I build web and mobile systems for education and business,
 
 ## Featured projects
 
-Source code is in private repositories. Details available on request.
-
 ### AITA: Campus Information Kiosk
 Campus information kiosk for Fakultas Teknik UNRI, using a local LLM with retrieval-augmented generation (RAG). Includes a companion app.
 
